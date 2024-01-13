@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="API框架参考.接口项目设计简易模型.jiekou_pro.case.test_03.validate" />
+          <option value="common.configHttp" />
+          <option value="geturlParams" />
+          <option value="readExcel" />
+          <option value="configHttp" />
+          <option value="getpathInfo" />
+          <option value="pythoncom" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
